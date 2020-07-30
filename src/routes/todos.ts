@@ -5,7 +5,7 @@ import {
   getTodos,
   updateTodo,
   deleteTodo,
-} from "../constrollers/todos";
+} from "../controllers/todos";
 
 // would be this way in a regular JS
 // const express = require('express');
